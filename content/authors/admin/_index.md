@@ -1,47 +1,48 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Frederick Anyan, Ph.D 
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Frederick 
+last_name: Anyan
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Norwegian University of Science and Technology
+    url: https://www.ntnu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My substantive areas of interests are stress, resilience and mental health, including processes leading to positive adaptation and outcomes for mental health, the competence of at risk and vulnerable populations, particularly risk and protective factors in children, adolescents and families, loneliness and social isolation, and the psychosocial determinants of youth and adult mental health. My current quantitative and research method works cover a broad range of topics in design and data analysis, using complex methodology from both structural equations and multilevel modelling perspectives, and the application of general and advanced quantitative methods, psychometrics, and psychological network analysis. I try to combine these quantitative and substantive interests into a single program of research that seeks to understand and promote human adaptation and resilience for intervention science, practice, and policy.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Loneliness and social isolation with mental and physical health
+  - Quantitative research methodology and applied data analysis 
+  - Structural equation modeling (SEM) AND Hierachical llinear modeling (HLM)
+  - Psychological network analysis and complexity science 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Health and Behaviour
+      institution: Norwegian University of Science and Technology, and Australian National University
+      year: 2019
+    - course: Master of Philosophy in Human Development
+      institution: Norwegian University of Science and Technology 
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Bachelor of Arts in Psychology with Philosophy
+      institution: University of Ghana
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,16 +54,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/anyan4usall
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.no/citations?user=e2dUK-EAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/frederickanyan
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -74,11 +75,13 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'frederick.anyan@ntnu.no'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Frederick Anyan is a Researcher at the Department of Psychology in NTNU. Frederick leads the Resilience to loneliness (RESLON) Lab, investigating the complex interplay between biological systems with psychological and social-environmental factors in loneliness for mental and physical health outcomes. The RESLON-MPH Lab uses various research approaches combining intensive longitudinal data (e.g., experienced sampling methods), large-scale genetic studies (e.g., genemoe-wide asociation studies (GWAS) to identify network of genes), and intranasal oxytocin trials.
+
+Frederick is the Principal Investigator of the RESLON project and the longitudinal analyses of mental health, vulnerability, and protective factors among Norwegian Afghanistan veterans deployed to Afghanistan between 2001 to 2020.   
 {style="text-align: justify;"}
